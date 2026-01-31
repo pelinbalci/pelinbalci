@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pelinbalci
 - 👀 I’m interested in machine learning, deep learning, and tiny ml:)
-- 🌱 I’m currently learning advanced TensorFlow & NLP & GAI
+- 🌱 I’m currently learning graph neural network & genai.
 - Here is my web page: [pelinbalci.com](https://pelinbalci.com/)
 
 <!---
